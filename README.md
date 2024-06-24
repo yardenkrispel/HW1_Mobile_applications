@@ -1,4 +1,18 @@
-# Welcome !
-Launch the application on your Android device or emulator.
-Use the left and right buttons to move the character and avoid the ghosts.
-If you lose all your lives, the game will display "GAME OVER" and you can restart the game by pressing the "restart" button.
+# Ghost Dodge Game
+
+Welcome to the Ghost Dodge Game! In this game, you control a girl who needs to dodge incoming ghosts. You have three lives, and the goal is to survive as long as possible. 
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Gameplay](#gameplay)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. Clone the repository to your local machine:
+   ```sh
+   git clone https://github.com/yardenkrispel/HW1_Mobile_applications.git
